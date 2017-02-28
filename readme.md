@@ -1,0 +1,2 @@
+- adds instruction to sql file to not check foreign keys and other checks (speeds up import)
+- removes information about charset and collate (no errors during import)
